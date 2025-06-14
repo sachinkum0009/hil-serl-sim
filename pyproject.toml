@@ -1,0 +1,10 @@
+[project]
+name = "hil-serl-sim"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "gym-hil>=0.1.0",
+    "mujoco>=3.3.3",
+]
